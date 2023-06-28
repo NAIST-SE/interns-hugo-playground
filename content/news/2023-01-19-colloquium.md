@@ -12,7 +12,4 @@ authors = ["SE Lab"]
 コロキアムＡにて，チェンマイ大学のPASSAKORN PHANNACHITTA教授が講演を行いました．
 機械学習モデルを含む経験的ソフトウェア工学の長年の議論の問題の一つである，ソフトウェア開発の工数見積もりについての講演でした．
 
-{{< figure src="../img/Jo_Atlee_care.jpeg" title="Joanne Atlee (she/her)" >}}
-
-![Alt
-text](img/news/2023-04-19-bbq.jpg "Colloquium title")
+![Colloquium title](https://github.com/raux/hugo-playground/raw/main/static/img/news/2023-01-19-colloquium.jpg)
