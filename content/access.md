@@ -1,5 +1,6 @@
 +++
 title = "Access"
+description = "entering the software engineering lab"
 +++
 
 ### **Address & Campus map**
