@@ -15,7 +15,7 @@
     min-height: 230px;
 }
 
-.testimonial same-height-always{
+.testimonial.same-height-always{
     max-height: 0px;
 }
 
