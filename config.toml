@@ -132,7 +132,7 @@ pluralizelisttitles = false
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/testimonials'.
     # For more information take a look at the README.
-    title = "Members"
+    title = "Professors"
     subtitle = "Software Engineering Laboratory produced hundreds of students, who successfully continued their career in the industry and in the academic field. Many Doctor students work in Japan and abroad. We look forward to collaborate with more researchers and widen our research areas."
 
 [params.collaborations]

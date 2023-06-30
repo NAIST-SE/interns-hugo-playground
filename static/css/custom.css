@@ -19,10 +19,10 @@
     max-height: 0px;
 }
 
-.testimonial same-height-always .text{
+.testimonial.same-height-always .text{
     max-height: 0px;
 }
 
-.testimonial same-height-always .bottom{
+.testimonial.same-height-always .bottom{
     max-height: 0px;
 }
