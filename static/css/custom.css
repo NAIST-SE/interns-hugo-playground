@@ -20,16 +20,9 @@
 }
 
 .testimonial same-height-always .text{
-    min-height: 0px;
     max-height: 0px;
 }
 
 .testimonial same-height-always .bottom{
-    min-height: 0px;
     max-height: 0px;
-}
-
-.name-picture{
-    min-width: 316px;
-    max-width: 316px;
 }
