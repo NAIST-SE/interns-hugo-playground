@@ -15,7 +15,6 @@
     min-height: 230px;
 }
 
-<<<<<<< HEAD
 .student.same-height-always{
     max-height: 0px;
 }
@@ -25,7 +24,8 @@
 }
 
 .student.same-height-always .bottom{
-=======
+    max-height: 0px;
+}
 .testimonial.same-height-always{
     max-height: 0px;
 }
@@ -35,6 +35,5 @@
 }
 
 .testimonial.same-height-always .bottom{
->>>>>>> 68d6be9b2df6a8b7ecfb89fda377374b11e406d2
     max-height: 0px;
 }
