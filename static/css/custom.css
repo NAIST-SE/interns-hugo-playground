@@ -18,3 +18,21 @@
 .testimonial same-height-always{
     max-height: 0px;
 }
+
+.testimonial same-height-always .text{
+    max-height: 0px;
+}
+
+.testimonial same-height-always .bottom{
+    max-height: 0px;
+}
+
+.testimonial same-height-always .icon{
+    max-height: 0px;
+    max-width: 0px;
+}
+
+.testimonial same-height-always .name-picture{
+    max-height: 70px;
+    max-width: 182px;
+}
