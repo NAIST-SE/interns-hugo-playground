@@ -14,3 +14,26 @@
 .box-simple {
     min-height: 230px;
 }
+
+.student.same-height-always{
+    max-height: 0px;
+}
+
+.student.same-height-always .text{
+    max-height: 0px;
+}
+
+.student.same-height-always .bottom{
+    max-height: 0px;
+}
+.testimonial.same-height-always{
+    max-height: 0px;
+}
+
+.testimonial.same-height-always .text{
+    max-height: 0px;
+}
+
+.testimonial.same-height-always .bottom{
+    max-height: 0px;
+}
