@@ -1,7 +1,3 @@
 name: "Dong Wang"
-position: >
-  <ul class="list-style-none">
-    <li>Nowadays open-source software is eating the world</li>
-    <li>There are a lot of dependencies and libraries</li>
-  </ul>
+position: "Hello world"
 avatar: "img/members/Dong-Wang-229.jpg"
