@@ -118,6 +118,7 @@ pluralizelisttitles = false
     slide_speed = 2000
     pagination_speed = 1000
 
+    
 [params.carouselHomepage]
     # All carousel items are defined in their own files. You can find example items
     # at 'exampleSite/data/carousel'.
