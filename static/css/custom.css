@@ -37,3 +37,7 @@
 .testimonial same-height-always .bottom{
     max-height: 0px;
 }
+
+h5{
+    font-size: 10px;    
+}
