@@ -38,6 +38,16 @@
     max-height: 0px;
 }
 
-h5{
-    font-size: 10px;    
+.testimonials .item .testimonial .name-picture h5 {
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+}
+/* 
+.testimonials .item .testimonial .name-picture img{
+
+} */
+
+.testimonials .item .testimonial .bottom .icon {
+    display: none;
 }
