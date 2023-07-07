@@ -156,7 +156,7 @@ pluralizelisttitles = false
 [params.recent_posts]
     enable = true
     title = "Latest news"
-    subtitle =
+    subtitle = ""
     hide_summary = false
 
 [params.footer.recent_posts]
