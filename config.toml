@@ -132,8 +132,9 @@ pluralizelisttitles = false
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/testimonials'.
     # For more information take a look at the README.
-    title = "Professors"
+    title = "Members"
     subtitle = "Software Engineering Laboratory produced hundreds of students, who successfully continued their career in the industry and in the academic field. Many Doctor students work in Japan and abroad. We look forward to collaborate with more researchers and widen our research areas."
+
 
 [params.collaborations]
     enable = true
@@ -142,6 +143,14 @@ pluralizelisttitles = false
     # For more information take a look at the README.
     title = "Our Collaborative Universities"
     subtitle = "We collaborate with various Univesities and Research Centers all over the world"
+
+[params.clients]
+    enable = true
+    # All clients are defined in their own files. You can find example items
+    # at 'exampleSite/data/clients'.
+    # For more information take a look at the README.
+    title = "Our Clients"
+    subtitle = ""
 
 [params.recent_posts]
     enable = true
