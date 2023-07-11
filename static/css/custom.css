@@ -30,10 +30,24 @@
     max-height: 0px;
 }
 
-.testimonial.same-height-always .text{
+.testimonial same-height-always .text{
     max-height: 0px;
 }
 
-.testimonial.same-height-always .bottom{
+.testimonial same-height-always .bottom{
     max-height: 0px;
+}
+
+.testimonials .item .testimonial .name-picture h5 {
+    font-size: 18px;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+}
+/* 
+.testimonials .item .testimonial .name-picture img{
+
+} */
+
+.testimonials .item .testimonial .bottom .icon {
+    display: none;
 }
