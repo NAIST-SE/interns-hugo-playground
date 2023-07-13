@@ -108,7 +108,7 @@ pluralizelisttitles = false
 
 [params.carouselCustomers]
     items = 6
-    auto_play = false
+    auto_play = true
     slide_speed = 2000
     pagination_speed = 1000
 
