@@ -53,9 +53,13 @@
 }
 
 .customers .item {
-    font-size: 18px;
-    text-transform: uppercase;
-    letter-spacing: 0.08em;
+    list-style-type: none;
+    margin: 0 5px;
+    background: #fff;
+    padding-bottom: 60px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
 }
 .owl-item{
     font-size: 18px;
