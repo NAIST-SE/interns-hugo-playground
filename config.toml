@@ -134,7 +134,7 @@ pluralizelisttitles = false
     # at 'exampleSite/data/testimonials'.
     # For more information take a look at the README.
     title = "Professors"
-    subtitle = "Software Engineering Laboratory produced hundreds of students, who successfully continued their career in the industry and in the academic field. Many Doctor students work in Japan and abroad. We look forward to collaborate with more researchers and widen our research areas."
+    subtitle = "Software Engineering Laboratory produced hundreds of students, who successfully continued their career in the industry and in the academic field. Many Doctor students work in Japan and abroad. We look forward to collaborate with more researchers and widen our research."
 
 
 [params.collaborations]
