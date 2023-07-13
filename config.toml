@@ -145,7 +145,7 @@ pluralizelisttitles = false
     title = "Our Collaborative Universities"
     subtitle = "We collaborate with various Univesities and Research Centers all over the world"
 
-[params.customers]
+[params.clients]
     enable = true
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
