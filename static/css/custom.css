@@ -51,3 +51,9 @@
 .testimonials .item .testimonial .bottom .icon {
     display: none;
 }
+
+.customers .item {
+    font-size: 18px;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+}
