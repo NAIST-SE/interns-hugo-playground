@@ -54,12 +54,6 @@ pluralizelisttitles = false
     url        = "/access/"
     weight     = 6
 
-[[menu.main]]
-    name       = "EN"
-    identifier = "languages"
-    url        = "/en/"
-    weight     = 7
-
 [params]
     viewMorePostLink = "/news/"
     author = "DevCows"
@@ -118,16 +112,6 @@ pluralizelisttitles = false
     slide_speed = 2000
     pagination_speed = 1000
 
-    
-[params.carouselHomepage]
-    # All carousel items are defined in their own files. You can find example items
-    # at 'exampleSite/data/carousel'.
-    # For more information take a look at the README.
-    enable = true
-    auto_play = true
-    slide_speed = 2000
-    pagination_speed = 1000
-
 [params.testimonials]
     enable = true
     # All testimonials are defined in their own files. You can find example items
@@ -151,7 +135,16 @@ pluralizelisttitles = false
     # For more information take a look at the README.
     title = "Our Collaborative Universities"
     subtitle = "We collaborate with various Univesities and Research Centers all over the world"
-
+    
+[params.carouselHomepage]
+    # All carousel items are defined in their own files. You can find example items
+    # at 'exampleSite/data/carousel'.
+    # For more information take a look at the README.
+    enable = true
+    auto_play = true
+    slide_speed = 2000
+    pagination_speed = 1000
+    
 [params.recent_posts]
     enable = true
     title = "Latest news"
